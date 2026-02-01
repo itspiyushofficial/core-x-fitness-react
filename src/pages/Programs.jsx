@@ -1,5 +1,5 @@
 import Programs from "../components/Programs";
-import programsBg from "../Images/Programs-bg.jpg";
+import programsBg from "../Images/programs-bg.jpg";
 
 function ProgramsPage() {
   return (

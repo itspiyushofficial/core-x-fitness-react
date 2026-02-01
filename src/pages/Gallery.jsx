@@ -5,12 +5,14 @@ import weight1 from "../Images/weight-gain.webp";
 import cardio1 from "../Images/cardio.webp";
 import diet1 from "../Images/weight-gain-diet.jpg";
 import machine1 from "../Images/imported-machines.jpg";
+import photos from "../Images/gallery-photos.jpg";
 
 const galleryItems = [
   { id: 1, type: "weight", src: weight1 },
   { id: 2, type: "cardio", src: cardio1 },
   { id: 3, type: "diet", src: diet1 },
-  { id: 4, type: "machine", src: machine1 }
+  { id: 4, type: "machine", src: machine1 },
+  { id: 5, type: "photos", src: photos }
 ];
 
 const Gallery = () => {
