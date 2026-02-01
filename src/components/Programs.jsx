@@ -13,7 +13,7 @@ const Programs = () => {
   const goToGallery = () => {
     navigate("/gallery");
   };
-  return (  
+  return (
     <section className="section">
       <h2>Our Programs</h2>
 
